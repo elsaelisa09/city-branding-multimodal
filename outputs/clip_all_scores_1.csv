@@ -1,0 +1,115 @@
+rank,category,label_en,label_id,similarity_logit,probability
+1,Scene,eco tourism,ekowisata,27.035831,0.11189813
+2,Ancillary,cultural performance,pertunjukan budaya,26.513088,0.066343494
+3,Scene,cultural tourism,wisata budaya,26.497143,0.06529401
+4,Attraction,cultural attraction,daya tarik budaya,26.198816,0.04845201
+5,Scene,traditional tourism area,area wisata tradisional,26.155537,0.046399754
+6,Ancillary,tourism event,acara wisata,25.884813,0.035395008
+7,Ancillary,tourism campaign,kampanye pariwisata,25.847874,0.034111384
+8,Ancillary,local guide,pemandu lokal,25.786577,0.03208327
+9,Ancillary,tourism management activity,aktivitas pengelolaan wisata,25.662569,0.02834148
+10,Ancillary,official tourism signage,papan resmi pariwisata,25.651995,0.028043367
+11,Accessibility,entrance gate,gerbang masuk,25.614914,0.027022542
+12,Ancillary,festival,festival,25.611137,0.026920682
+13,Attraction,outdoor activity,aktivitas luar ruangan,25.597778,0.02656344
+14,Scene,modern tourism area,area wisata modern,25.559738,0.025571939
+15,Ancillary,community activity,aktivitas komunitas,25.52081,0.024595577
+16,Scene,rural tourism,wisata pedesaan,25.355991,0.020858236
+17,Ancillary,government tourism activity,aktivitas pariwisata pemerintah,25.293318,0.019591099
+18,Ancillary,tour guide,pemandu wisata,25.12476,0.016552169
+19,Scene,urban tourism,wisata perkotaan,25.096546,0.0160917
+20,Ancillary,tourism organization,organisasi pariwisata,25.01518,0.01483424
+21,Scene,adventure tourism,wisata petualangan,25.003164,0.014657054
+22,Scene,family tourism,wisata keluarga,24.990566,0.014473562
+23,Amenities,public toilet,toilet umum,24.87243,0.012860856
+24,Scene,clean environment,lingkungan bersih,24.847898,0.012549188
+25,Ancillary,volunteers,relawan,24.829144,0.012316022
+26,Scene,nature tourism,wisata alam,24.776896,0.011689056
+27,Amenities,gazebo,gazebo,24.691563,0.010732968
+28,Ancillary,exhibition,pameran,24.643906,0.010233464
+29,Attraction,beach recreation,rekreasi pantai,24.578047,0.009581214
+30,Ancillary,tourism promotion banner,spanduk promosi wisata,24.526695,0.009101623
+31,Scene,marine tourism,wisata bahari,24.465322,0.008559827
+32,Amenities,wifi area,area wifi,24.439747,0.008343679
+33,Amenities,information board,papan informasi,24.400917,0.008025905
+34,Amenities,seating area,area duduk,24.298973,0.007248036
+35,Ancillary,tourism office,kantor pariwisata,24.269785,0.007039537
+36,Attraction,monument,monumen,24.267426,0.007022947
+37,Scene,sunny weather,cuaca cerah,24.242893,0.0068527544
+38,Amenities,resting area,area istirahat,24.225483,0.0067344788
+39,Amenities,resort,resort,24.214706,0.0066622943
+40,Amenities,homestay,homestay,24.122057,0.0060727675
+41,Amenities,tourism facility,fasilitas wisata,24.089241,0.005876718
+42,Amenities,playground,taman bermain,24.04796,0.005639062
+43,Scene,relaxing atmosphere,suasana santai,23.972683,0.0052301525
+44,Attraction,forest,hutan,23.911676,0.0049206167
+45,Scene,tropical environment,lingkungan tropis,23.856829,0.004658
+46,Attraction,beach,pantai,23.785906,0.004339084
+47,Scene,crowded tourism area,area wisata ramai,23.715866,0.0040455745
+48,Accessibility,parking area,area parkir,23.70969,0.004020666
+49,Scene,quiet place,tempat tenang,23.48587,0.0032143586
+50,Attraction,crowd of tourists,keramaian wisatawan,23.42373,0.0030206991
+51,Accessibility,dock,dermaga,23.205406,0.0024282327
+52,Amenities,food stall,warung makan,23.181673,0.0023712816
+53,Amenities,market,pasar,23.176153,0.0023582284
+54,Attraction,recreation area,area rekreasi,23.091171,0.0021661008
+55,Ancillary,security officer,petugas keamanan,23.08275,0.002147937
+56,Scene,romantic scenery,pemandangan romantis,23.056765,0.0020928401
+57,Scene,night tourism,wisata malam,22.97324,0.0019251375
+58,Ancillary,tourism information center,pusat informasi wisata,22.948212,0.0018775527
+59,Attraction,tropical scenery,pemandangan tropis,22.936148,0.0018550381
+60,Attraction,scenic view,pemandangan indah,22.893581,0.0017777329
+61,Accessibility,port,pelabuhan,22.707138,0.0014753503
+62,Attraction,island,pulau,22.687124,0.0014461165
+63,Attraction,camping area,area berkemah,22.510641,0.0012121536
+64,Accessibility,transportation,transportasi,22.50121,0.0012007746
+65,Attraction,natural landscape,lanskap alam,22.495827,0.0011943287
+66,Accessibility,pedestrian path,jalur pejalan kaki,22.412418,0.0010987528
+67,Attraction,diving,menyelam,22.337406,0.0010193484
+68,Attraction,temple,candi atau pura,22.299383,0.0009813174
+69,Amenities,street lighting,lampu jalan,22.235094,0.0009202145
+70,Accessibility,tourism access road,jalan akses wisata,22.134462,0.00083211873
+71,Accessibility,pathway,jalur,22.08836,0.00079462683
+72,Attraction,sea,laut,22.069695,0.0007799324
+73,Scene,dirty environment,lingkungan kotor,22.056847,0.000769976
+74,Amenities,hotel,hotel,22.056206,0.0007694827
+75,Accessibility,direction sign,papan petunjuk arah,21.91983,0.00067138526
+76,Amenities,cafe,kafe,21.907452,0.0006631256
+77,Accessibility,bridge,jembatan,21.885754,0.0006488921
+78,Amenities,souvenir shop,toko suvenir,21.865467,0.00063586095
+79,Amenities,restaurant,restoran,21.813473,0.0006036445
+80,Accessibility,public transportation,transportasi umum,21.8108,0.00060203363
+81,Amenities,mosque,masjid,21.759417,0.0005718801
+82,Amenities,parking facility,fasilitas parkir,21.713434,0.00054617913
+83,Accessibility,ferry,kapal feri,21.659801,0.0005176577
+84,Attraction,hiking,mendaki,21.56157,0.00046922476
+85,Accessibility,airport,bandara,21.539103,0.00045880044
+86,Accessibility,car,mobil,21.507786,0.00044465493
+87,Accessibility,harbor,pelabuhan,21.449146,0.00041933032
+88,Scene,damaged infrastructure,infrastruktur rusak,21.413572,0.00040467532
+89,Accessibility,boat,perahu,21.400547,0.0003994385
+90,Scene,cloudy sky,langit berawan,21.393356,0.00039657654
+91,Attraction,traditional house,rumah tradisional,21.361588,0.0003841758
+92,Accessibility,vehicle,kendaraan,21.314499,0.0003665048
+93,Attraction,river,sungai,21.282028,0.00035479528
+94,Attraction,snorkeling,snorkeling,21.23669,0.00033906888
+95,Accessibility,stairs,tangga,21.205606,0.00032869139
+96,Accessibility,bus,bus,21.202148,0.00032755669
+97,Attraction,cliff,tebing,21.188093,0.00032298503
+98,Accessibility,road,jalan,21.151075,0.0003112474
+99,Attraction,historical building,bangunan bersejarah,21.14147,0.00030827205
+100,Accessibility,traffic sign,rambu lalu lintas,20.881626,0.00023773078
+101,Accessibility,motorcycle,motor,20.82988,0.00022574194
+102,Amenities,prayer room,mushola,20.744598,0.00020728841
+103,Amenities,camping facility,fasilitas berkemah,20.673422,0.00019304718
+104,Ancillary,ticket counter,loket tiket,20.649437,0.00018847204
+105,Attraction,lake,danau,20.636806,0.00018610654
+106,Attraction,cave,gua,20.604692,0.00018022484
+107,Accessibility,highway,jalan raya,20.551344,0.00017086207
+108,Ancillary,rescue team,tim penyelamat,20.414175,0.0001489615
+109,Amenities,swimming pool,kolam renang,20.255424,0.0001270953
+110,Attraction,mountain,gunung,20.201656,0.0001204421
+111,Attraction,waterfall,air terjun,20.147612,0.000114105605
+112,Attraction,volcano,gunung berapi,19.854939,8.515314e-05
+113,Attraction,sunset,matahari terbenam,19.676325,7.122455e-05
+114,Attraction,sunrise,matahari terbit,19.609505,6.6620836e-05

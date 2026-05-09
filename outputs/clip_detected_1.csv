@@ -1,0 +1,16 @@
+rank,category,label_en,label_id,probability,similarity_logit
+1,Scene,eco tourism,ekowisata,0.11189813,27.035831
+2,Ancillary,cultural performance,pertunjukan budaya,0.066343494,26.513088
+3,Scene,cultural tourism,wisata budaya,0.06529401,26.497143
+4,Attraction,cultural attraction,daya tarik budaya,0.04845201,26.198816
+5,Scene,traditional tourism area,area wisata tradisional,0.046399754,26.155537
+6,Ancillary,tourism event,acara wisata,0.035395008,25.884813
+7,Ancillary,tourism campaign,kampanye pariwisata,0.034111384,25.847874
+8,Ancillary,local guide,pemandu lokal,0.03208327,25.786577
+9,Ancillary,tourism management activity,aktivitas pengelolaan wisata,0.02834148,25.662569
+10,Ancillary,official tourism signage,papan resmi pariwisata,0.028043367,25.651995
+11,Accessibility,entrance gate,gerbang masuk,0.027022542,25.614914
+12,Ancillary,festival,festival,0.026920682,25.611137
+13,Attraction,outdoor activity,aktivitas luar ruangan,0.02656344,25.597778
+14,Scene,modern tourism area,area wisata modern,0.025571939,25.559738
+15,Ancillary,community activity,aktivitas komunitas,0.024595577,25.52081
