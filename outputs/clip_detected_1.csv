@@ -1,16 +1,14 @@
 rank,category,label_en,label_id,probability,similarity_logit
-1,Scene,eco tourism,ekowisata,0.11189813,27.035831
-2,Ancillary,cultural performance,pertunjukan budaya,0.066343494,26.513088
-3,Scene,cultural tourism,wisata budaya,0.06529401,26.497143
-4,Attraction,cultural attraction,daya tarik budaya,0.04845201,26.198816
-5,Scene,traditional tourism area,area wisata tradisional,0.046399754,26.155537
-6,Ancillary,tourism event,acara wisata,0.035395008,25.884813
-7,Ancillary,tourism campaign,kampanye pariwisata,0.034111384,25.847874
-8,Ancillary,local guide,pemandu lokal,0.03208327,25.786577
-9,Ancillary,tourism management activity,aktivitas pengelolaan wisata,0.02834148,25.662569
-10,Ancillary,official tourism signage,papan resmi pariwisata,0.028043367,25.651995
-11,Accessibility,entrance gate,gerbang masuk,0.027022542,25.614914
-12,Ancillary,festival,festival,0.026920682,25.611137
-13,Attraction,outdoor activity,aktivitas luar ruangan,0.02656344,25.597778
-14,Scene,modern tourism area,area wisata modern,0.025571939,25.559738
-15,Ancillary,community activity,aktivitas komunitas,0.024595577,25.52081
+1,Attraction,waterfall,air terjun,0.23114029,28.194984
+2,Ancillary,tourism management activity,aktivitas pengelolaan wisata,0.1143839,27.49152
+3,Attraction,outdoor activity,aktivitas luar ruangan,0.10392627,27.395641
+4,Attraction,hiking,mendaki,0.077014476,27.095953
+5,Ancillary,tourism organization,organisasi pariwisata,0.07404813,27.056675
+6,Ancillary,government tourism activity,aktivitas pariwisata pemerintah,0.046171397,26.58432
+7,Ancillary,tourism campaign,kampanye pariwisata,0.040592834,26.455551
+8,Attraction,cultural attraction,daya tarik budaya,0.037289318,26.370667
+9,Attraction,natural landscape,lanskap alam,0.026972713,26.046785
+10,Amenities,homestay,homestay,0.02544866,25.988623
+11,Ancillary,rescue team,tim penyelamat,0.022604607,25.870113
+12,Attraction,forest,hutan,0.020438667,25.769388
+13,Attraction,tropical scenery,pemandangan tropis,0.02041794,25.768373
