@@ -1,0 +1,33 @@
+{
+  "clip_model_name": "openai/clip-vit-base-patch32",
+  "text_model_name": "cardiffnlp/twitter-xlm-roberta-base",
+  "image_dim": 512,
+  "text_dim": 768,
+  "project_dim": 256,
+  "num_classes": 4,
+  "label_to_id": {
+    "Accessibility": 0,
+    "Amenities": 1,
+    "Ancillary": 2,
+    "Attraction": 3
+  },
+  "id_to_label": {
+    "0": "Accessibility",
+    "1": "Amenities",
+    "2": "Ancillary",
+    "3": "Attraction"
+  },
+  "batch_size": 16,
+  "epochs": 24,
+  "optimizer": "AdamW",
+  "scheduler": "ReduceLROnPlateau",
+  "early_stopping_patience": 5,
+  "class_counts_train": {
+    "Accessibility": 7,
+    "Amenities": 51,
+    "Ancillary": 24,
+    "Attraction": 474
+  },
+  "best_epoch": 7,
+  "best_val_loss": 0.08443489050988456
+}

@@ -5,3 +5,13 @@
 __pycache__/
 *.py[cod]
 multimodal_citybranding/outputs/
+
+# Folder gambar scraping yang tidak ingin dilacak.
+Scraping Data Zefanya (10 Aug )/instagram_images/
+Scraping Data Zefanya (10 Aug )/New Images Clean/
+Scraping Data Zefanya (10 Aug )/Image/
+
+# Folder gambar dataset.
+dataset/images/
+dataset/images_skema1/
+dataset/images_skema2/
