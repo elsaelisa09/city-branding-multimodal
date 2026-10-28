@@ -1,7 +1,0 @@
-gradio
-pandas
-pillow
-sentencepiece
-torch
-transformers
-

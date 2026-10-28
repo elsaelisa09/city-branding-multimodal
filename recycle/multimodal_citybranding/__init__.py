@@ -1,2 +1,0 @@
-"""Pipeline multimodal city branding."""
-

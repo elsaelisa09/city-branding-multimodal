@@ -1,3 +1,6 @@
-clean-data/
-raw-data/
-recycle/
+# Dataset
+/dataset/clean-data/
+/dataset/raw-data/
+
+# Recycle folder
+/recycle/
